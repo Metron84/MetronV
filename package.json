@@ -1,0 +1,27 @@
+{
+  "name": "metron-ventures",
+  "version": "99.0.0",
+  "description": "Metron Ventures website - Strategic R&D and Venture Platform",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "metron",
+    "ventures",
+    "intelligence",
+    "strategic-rnd",
+    "research"
+  ],
+  "author": "Metron Ventures",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "pg": "^8.11.3",
+    "@supabase/supabase-js": "^2.39.0",
+    "resend": "^3.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
