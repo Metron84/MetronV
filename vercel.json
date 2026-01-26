@@ -7,6 +7,10 @@
       "destination": "/intelligence.html"
     },
     {
+      "source": "/intelligence-brief",
+      "destination": "/intelligence-brief.html"
+    },
+    {
       "source": "/submit-paper",
       "destination": "/submit-paper.html"
     },
