@@ -1,0 +1,11 @@
+{
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/tpd-studio", "destination": "/tpd-studio.html" },
+    { "source": "/intelligence", "destination": "/intelligence.html" },
+    { "source": "/intelligence-brief", "destination": "/intelligence-brief.html" },
+    { "source": "/submit-paper", "destination": "/submit-paper.html" },
+    { "source": "/submission-received", "destination": "/submission-received.html" },
+    { "source": "/subscription-received", "destination": "/subscription-received.html" }
+  ]
+}
